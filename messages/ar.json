@@ -1,0 +1,14 @@
+{
+  "Sidebar": {
+    "new_chat": "محادثة جديدة",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "chat": "دردشة"
+  },
+  "Chatbot": {
+    "placeholder": "اكتب رسالتك هنا..."
+  },
+  "Navbar": {
+    "chatgpt": "المساعد الذكي"
+  }
+}

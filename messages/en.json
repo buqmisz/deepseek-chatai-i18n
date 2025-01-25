@@ -1,0 +1,14 @@
+{
+  "Sidebar": {
+    "new_chat": "New Chat",
+    "edit": "Edit",
+    "delete": "Delete",
+    "chat": "Chat"
+  },
+  "Chatbot": {
+    "placeholder": "Type your message here..."
+  },
+  "Navbar": {
+    "chatgpt": "Smart Assistant"
+  }
+}
